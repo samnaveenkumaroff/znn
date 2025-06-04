@@ -1,0 +1,19 @@
+# ZNN Requirements
+# Core dependencies for Zero Neural Network
+
+# Numerical computing
+numpy>=1.21.0
+
+# Plotting and visualization
+matplotlib>=3.5.0
+
+# Testing framework
+pytest>=7.0.0
+
+# Rich console output (optional, for prettier training logs)
+rich>=12.0.0
+
+# Development dependencies (optional)
+black>=22.0.0  # Code formatting
+flake8>=4.0.0  # Linting
+jupyter>=1.0.0  # Notebooks for experimentation
