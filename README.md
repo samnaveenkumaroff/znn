@@ -167,7 +167,7 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Minimal Inspiration
+## Inspiration
 
 ZNN was inspired by the clean simplicity of early neural engines. Credit to [micrograd](https://github.com/karpathy/micrograd) for sparking the seed — ZNN takes it to the next level.
 
