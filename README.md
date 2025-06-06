@@ -1,6 +1,6 @@
 # ⚡ ZNN - Zero Neural Network
 
-> A premium, extensible deep learning and autograd engine built from scratch in Python.
+> An extensible deep learning and autograd engine built from scratch in Python.
 
 ZNN (Zero Neural Network) is a minimal yet powerful neural network framework designed for learning, experimentation, and customization. It builds a foundation similar to PyTorch's autograd but is developed from scratch with clean architecture, sharp naming, and robust modularity.
 
