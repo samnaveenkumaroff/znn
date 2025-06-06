@@ -8,7 +8,7 @@ class Neuron:
         self.activation = activation
 
     def __call__(self, x):
-        # w * x + b
+        #  linear function formula w * x + b 
         act = sum((wi * xi for wi, xi in zip(self.w, x)), self.b)
         if self.activation == 'tanh':
             return act.tanh()
