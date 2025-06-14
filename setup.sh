@@ -22,7 +22,7 @@ if conda env list | grep -q "^znn "; then
     echo "⚠️ Environment 'znn' already exists. Removing it..."
     conda env remove -n znn -y
 fi
-
+#prefer python version 3.10
 conda create -n znn python=3.10 -y
 echo "✅ Conda environment created"
 
