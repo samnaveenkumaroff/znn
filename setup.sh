@@ -20,7 +20,7 @@ mkdir -p znn/{znn,tests,examples}
 echo "🐍 Creating conda environment..."
 if conda env list | grep -q "^znn "; then
     echo "⚠️ Environment 'znn' already exists. Removing it..."
-    conda env remove -n znn -y
+    conda env remove -n znn -y #remove conda if already present
 fi
 #prefer python version 3.10
 conda create -n znn python=3.10 -y
