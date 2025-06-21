@@ -13,7 +13,7 @@ ZNN (Zero Neural Network) is a minimal yet powerful neural network framework des
 - 📉 **Training Loop Templates** — Structured optimization and forward/backward passes
 - 🛠️ **Extensible Design** — Easy to modify, expand, or scale
 - 🎨 **Utilities & Visualization** — Clean plots and tooling for learning
-- 🧪 **Test Suite** — Built-in unit tests for correctness and coverage
+- 🧪 **Test Suite** — Built-in unit tests for correctness and coverage of program
 
 ---
 
