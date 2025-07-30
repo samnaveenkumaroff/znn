@@ -1,7 +1,7 @@
 import random
 from .engine import Value
 
-#Neuron Init
+#Neuron init
 class Neuron:
     def __init__(self, nin, activation='tanh'):
         self.w = [Value(random.uniform(-1, 1)) for _ in range(nin)]
